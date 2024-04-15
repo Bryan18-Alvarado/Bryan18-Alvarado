@@ -8,11 +8,11 @@
   ✔ react
   ✔ astro
 
-🌱 backend frameworks
-⚜ Django
-⚜ Django rest framework
-⚜ flask
+ 🌱 backend frameworks
+ ⚜ Django
+ ⚜ Django rest framework
+ ⚜ flask
 
-▶ Mobile development:
-♟ Flutter-dart
+ ▶ Mobile development:
+ ♟ Flutter-dart
 
