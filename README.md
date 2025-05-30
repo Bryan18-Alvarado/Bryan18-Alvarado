@@ -7,6 +7,7 @@
 🌱 frontend frameworks:
   ✔ react
   ✔ astro
+  ✔NextJs
 
  🌱 backend frameworks
  ⚜ Django
