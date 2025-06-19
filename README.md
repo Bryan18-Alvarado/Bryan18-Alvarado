@@ -13,6 +13,7 @@
  ⚜ Django
  ⚜ Django rest framework
  ⚜ flask
+   Nest
 
  ▶ Mobile development:
  ♟ Flutter-dart
