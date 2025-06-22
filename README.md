@@ -51,7 +51,7 @@
 ## 🌐 Conéctate conmigo
 
 <p align="left">
-  <a href="https://github.com/tu_usuario" target="_blank">
+  <a href="https://github.com/Bryan18-Alvarado" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tu_usuario" target="_blank">
@@ -64,4 +64,4 @@
 
 ---
 
-<p align="center">✨ Gracias por visitar mi perfil ✨</p>
+<p align="center">🐱‍👤 Gracias por visitar mi perfil 🐱‍👤</p>
