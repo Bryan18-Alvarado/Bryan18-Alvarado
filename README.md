@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AB Bryan Aráuz Alvarado, I'm studying
+- 👋 Hi, I’m AB Bryan Aráuz Alvarado, I'm studying in URACCAN
 
 - 👀 I am interested in web development, mobile development and cybersecurity.
 
