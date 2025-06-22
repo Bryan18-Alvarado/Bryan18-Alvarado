@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy AB Bryan Aráuz Alvarado
 
-🎓 Estudiante en la Universidad URACCAN, apasionado por el desarrollo web, el desarrollo móvil y la ciberseguridad.
+🎓 Estudiante de la carrera de Ingenieria en sistemas en la Universidad URACCAN, apasionado por el desarrollo web, el desarrollo móvil y la ciberseguridad.
 
 ---
 
