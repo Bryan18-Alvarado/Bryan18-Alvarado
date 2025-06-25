@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Bryan Aráuz Alvarado</h1>
 
 <p align="center">
-🎓 Estudiante de <strong>Ingeniería en Sistemas</strong> en la Universidad URACCAN <br/>
+🎓 Estudiante de <strong>Ingeniería en Sistemas</strong> en la Universidad URACCAN. <br/>
 💻 Apasionado por el <strong>desarrollo web</strong>, <strong>móvil</strong>, la <strong>ciberseguridad</strong> y la <strong>inteligencia artificial</strong>.
 </p>
 
