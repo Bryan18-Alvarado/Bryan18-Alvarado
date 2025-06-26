@@ -72,4 +72,21 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryan18-Alvarado&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan18-Alvarado&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bryan18-Alvarado&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+
+
 <p align="center">✨ ¡Gracias por visitar mi perfil! Siempre estoy listo para colaborar en nuevos retos tecnológicos. ✨</p>
