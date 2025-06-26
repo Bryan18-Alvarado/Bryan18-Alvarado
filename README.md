@@ -64,4 +64,4 @@
 
 ---
 
-<p align="center">🐱‍👤 Gracias por visitar mi perfil 🐱‍👤</p>
+<p align="center">Gracias por visitar mi perfil</p>
