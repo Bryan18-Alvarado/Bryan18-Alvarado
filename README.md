@@ -50,7 +50,7 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 ![Dialogflow CX](https://img.shields.io/badge/Dialogflow_CX-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 📱 Desarrollo móvil
+### 📱 Desarrollo móvil.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
