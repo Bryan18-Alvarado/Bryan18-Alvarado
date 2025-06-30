@@ -45,7 +45,7 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🤖 IA y Automatización
+### 🤖 IA y Automatización.
 
 ![Dialogflow CX](https://img.shields.io/badge/Dialogflow_CX-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
