@@ -23,7 +23,7 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 
 ---
 
-## 🧰 Tecnologías y herramientas que uso
+## 🧰 Tecnologías y herramientas que uso.
 
 ### 💻 Lenguajes de programación
 
