@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 Sobre mí.
 
 Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar soluciones que impacten positivamente en las personas, combinando creatividad, eficiencia y seguridad. Estoy en constante aprendizaje, explorando tecnologías emergentes y frameworks modernos que potencian la innovación.
 
