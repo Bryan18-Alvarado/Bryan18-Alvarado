@@ -25,7 +25,7 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 
 ## 🧰 Tecnologías y herramientas que uso.
 
-### 💻 Lenguajes de programación
+### 💻 Lenguajes de programación.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
