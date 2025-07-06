@@ -56,7 +56,7 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 
 ---
 
-## 📬 Conéctate conmigo
+## 📬 Conéctate conmigo.
 
 <p align="center">
   <a href="https://github.com/Bryan18-Alvarado" target="_blank">
