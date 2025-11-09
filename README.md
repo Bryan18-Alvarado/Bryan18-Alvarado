@@ -59,8 +59,8 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 
 | Proyecto | Tecnologías | Vista Previa |
 |----------|-------------|--------------|
-| App de Tareas | React Native, Firebase | ![Tareas](link-a-gif.gif) |
-| Web Portfolio | Next.js, Tailwind | ![Portfolio](link-a-gif.gif) |
+| URACADEMY | django-reactJs | ![Tareas](link-a-gif.gif) |
+| SIRA | Next.js, Tailwind, nest.js | ![Portfolio](link-a-gif.gif) |
 | Bot de IA | Dialogflow CX, OpenAI | ![Bot](link-a-gif.gif) |
 
 ---
