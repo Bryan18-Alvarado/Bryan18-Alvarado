@@ -2,30 +2,30 @@
 
 <p align="center">
 👨‍💻 Estudiante de <strong>Ingeniería en Sistemas</strong> en la Universidad URACCAN. <br/>
-💡 Apasionado por el <strong>desarrollo web</strong>, <strong>aplicaciones móviles</strong>, la <strong>ciberseguridad</strong> y la <strong>inteligencia artificial</strong>.
+💡 Apasionado por <strong>desarrollo web</strong>, <strong>apps móviles</strong>, <strong>ciberseguridad</strong> e <strong>inteligencia artificial</strong>.
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar soluciones que impacten positivamente en las personas, combinando creatividad, eficiencia y seguridad. Estoy en constante aprendizaje, explorando tecnologías emergentes y frameworks modernos que potencian la innovación.
+Soy un entusiasta de la tecnología con visión a futuro. Me gusta crear soluciones que impacten positivamente, combinando creatividad, eficiencia y seguridad. Siempre explorando nuevas tecnologías y frameworks modernos.
 
 ---
 
 ## 🚀 Áreas de interés
 
 - 🌐 Desarrollo Web Moderno  
-- 📱 Aplicaciones Móviles Multiplataforma  
-- 🔐 Seguridad Informática y Hacking Ético  
-- 🤖 Inteligencia Artificial y Chatbots (NLP)   
-- 🎨 Diseño de interfaces centradas en el usuario (UI/UX)
+- 📱 Apps Móviles Multiplataforma  
+- 🔐 Ciberseguridad y Hacking Ético  
+- 🤖 Inteligencia Artificial y Chatbots  
+- 🎨 UI/UX y diseño centrado en el usuario
 
 ---
 
 ## 🧰 Tecnologías y herramientas
 
-### 💻 Lenguajes de programación
+### 💻 Lenguajes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,11 +57,11 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 
 ## 🌟 Proyectos Destacados
 
-| Proyecto | Tecnologías | 
+| Proyecto | Tecnologías |
 |----------|-------------|
-| URACADEMY | django-reactJs |
-| SIRA | Next.js, Tailwind, nest.js | 
-| Bot de IA | Dialogflow CX, OpenAI |
+| URACADEMY | Django + ReactJS |
+| SIRA | Next.js + Tailwind + NestJS |
+| Bot de IA | Dialogflow CX + OpenAI |
 
 ---
 
@@ -70,7 +70,7 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 - Creatividad y resolución de problemas  
 - Trabajo en equipo y colaboración remota  
 - Adaptabilidad a nuevas tecnologías  
-- Gestión de proyectos y buenas prácticas de desarrollo
+- Gestión de proyectos y buenas prácticas
 
 ---
 
@@ -93,17 +93,19 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bryan18-Alvarado&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryan18-Alvarado&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan18-Alvarado&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan18-Alvarado&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bryan18-Alvarado&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Bryan18-Alvarado&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Bryan18-Alvarado&theme=react-dark" alt="Contribuciones recientes" />
+</p>
 
-
-<p align="center">✨ ¡Gracias por visitar mi perfil! Siempre estoy listo para colaborar en nuevos retos tecnológicos. ✨</p>
+<p align="center">✨ ¡Gracias por visitar mi perfil! Siempre listo para nuevos retos tecnológicos. ✨</p>
