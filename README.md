@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Sobre mí.
+## 🧠 Sobre mí
 
 Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar soluciones que impacten positivamente en las personas, combinando creatividad, eficiencia y seguridad. Estoy en constante aprendizaje, explorando tecnologías emergentes y frameworks modernos que potencian la innovación.
 
@@ -23,9 +23,9 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 
 ---
 
-## 🧰 Tecnologías y herramientas que uso.
+## 🧰 Tecnologías y herramientas
 
-### 💻 Lenguajes de programación.
+### 💻 Lenguajes de programación
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +34,7 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 
 ### ⚛️ Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 🔧 Backend y APIs
@@ -43,18 +43,38 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
-### 🤖 IA y Automatización.
+### 🤖 IA y Automatización
 
 ![Dialogflow CX](https://img.shields.io/badge/Dialogflow_CX-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 📱 Desarrollo móvil.
+### 📱 Desarrollo móvil
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## 📬 Conéctate conmigo.
+## 🌟 Proyectos Destacados
+
+| Proyecto | Tecnologías | Vista Previa |
+|----------|-------------|--------------|
+| App de Tareas | React Native, Firebase | ![Tareas](link-a-gif.gif) |
+| Web Portfolio | Next.js, Tailwind | ![Portfolio](link-a-gif.gif) |
+| Bot de IA | Dialogflow CX, OpenAI | ![Bot](link-a-gif.gif) |
+
+---
+
+## 💡 Habilidades
+
+- Creatividad y resolución de problemas  
+- Trabajo en equipo y colaboración remota  
+- Adaptabilidad a nuevas tecnologías  
+- Gestión de proyectos y buenas prácticas de desarrollo
+
+---
+
+## 📬 Conéctate conmigo
 
 <p align="center">
   <a href="https://github.com/Bryan18-Alvarado" target="_blank">
@@ -70,10 +90,10 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 
 ---
 
-## 📊 Estadísticas de GitHub.
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bryan18-Alvarado&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryan18-Alvarado&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -84,7 +104,8 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
   <img src="https://streak-stats.demolab.com?user=Bryan18-Alvarado&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Bryan18-Alvarado&theme=react-dark" alt="Contribuciones recientes" />
+</p>
 
 <p align="center">✨ ¡Gracias por visitar mi perfil! Siempre estoy listo para colaborar en nuevos retos tecnológicos. ✨</p>
