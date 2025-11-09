@@ -57,11 +57,11 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
 
 ## 🌟 Proyectos Destacados
 
-| Proyecto | Tecnologías | Vista Previa |
-|----------|-------------|--------------|
-| URACADEMY | django-reactJs | ![Tareas](link-a-gif.gif) |
-| SIRA | Next.js, Tailwind, nest.js | ![Portfolio](link-a-gif.gif) |
-| Bot de IA | Dialogflow CX, OpenAI | ![Bot](link-a-gif.gif) |
+| Proyecto | Tecnologías | 
+|----------|-------------|
+| URACADEMY | django-reactJs |
+| SIRA | Next.js, Tailwind, nest.js | 
+| Bot de IA | Dialogflow CX, OpenAI |
 
 ---
 
