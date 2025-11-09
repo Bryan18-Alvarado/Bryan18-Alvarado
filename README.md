@@ -104,8 +104,6 @@ Soy un entusiasta de la tecnología con visión a futuro. Me interesa diseñar s
   <img src="https://streak-stats.demolab.com?user=Bryan18-Alvarado&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Bryan18-Alvarado&theme=react-dark" alt="Contribuciones recientes" />
-</p>
+
 
 <p align="center">✨ ¡Gracias por visitar mi perfil! Siempre estoy listo para colaborar en nuevos retos tecnológicos. ✨</p>
