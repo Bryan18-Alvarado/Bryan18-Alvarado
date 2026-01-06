@@ -1,4 +1,4 @@
-<h1 align="center">🚀 ¡Salve, Mundus! Soy Bryan Aráuz Alvarado</h1>
+<h1 align="center">🚀 ¡Salve, Mundus! Soy Bryan Alvarado</h1>
 
 <p align="center">
 👨‍💻 Soy estudiante de <strong>Ingeniería en Sistemas</strong> en la Universidad URACCAN. <br/>
