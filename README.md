@@ -9,7 +9,7 @@
 
 ## 🧠 Sobre mí
 
-Soy un entusiasta de la tecnología con visión a futuro. Me gusta crear soluciones que impacten positivamente, combinando creatividad, eficiencia y seguridad. Siempre explorando nuevas tecnologías y frameworks modernos.
+Soy un entusiasta de la tecnología con visión a futuro. Me gusta crear soluciones que impacten positivamente, combinando creatividad, eficiencia y seguridad. Siempre explorando nuevas tecnologías y frameworks modernos
 
 ---
 
