@@ -97,9 +97,6 @@ Soy un entusiasta de la tecnología con visión a futuro. Me gusta crear solucio
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan18-Alvarado&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bryan18-Alvarado&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 
 <p align="center">✨ ¡Gracias por visitar mi perfil! Siempre listo para nuevos retos tecnológicos. ✨</p>
