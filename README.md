@@ -99,4 +99,4 @@ Soy un entusiasta de la tecnología con visión a futuro. Me gusta crear solucio
 
 
 
-<p align="center">✨ ¡Gracias por visitar mi perfil! Siempre listo para nuevos retos tecnológicos. ✨</p>
+<p align="center">¡Gracias por visitar mi perfil! Siempre listo para nuevos retos tecnológicos.</p>
