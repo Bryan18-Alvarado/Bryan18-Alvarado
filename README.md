@@ -23,7 +23,7 @@ Soy un entusiasta de la tecnología con visión a futuro. Me gusta crear solucio
 
 ---
 
-## 🧰 Tecnologías y herramientas.
+## 🧰 Tecnologías y herramientas
 
 ### 💻 Lenguajes
 
