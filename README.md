@@ -1,7 +1,7 @@
 <h1 align="center">🚀 ¡Salve, Mundus! Soy Bryan Alvarado 🚀</h1>
 
 <p align="center">
-👨‍💻 Soy estudiante de <strong>Ingeniería en Sistemas</strong> en la Universidad URACCAN. <br/>
+👨‍💻 Soy estudiante de <strong>Ingeniería en Sistemas</strong> en la Universidad URACCAN <br/>
 💡 Apasionado por <strong>desarrollo web</strong>, <strong>apps móviles</strong>, <strong>ciberseguridad</strong> e <strong>inteligencia artificial</strong>
 </p>
 
