@@ -86,7 +86,7 @@ Soy un entusiasta de la tecnología con visión a futuro. Me gusta crear solucio
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bryan18-Alvarado&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
